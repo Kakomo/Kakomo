@@ -1,10 +1,33 @@
-## Hi there 👋
-
 ![Thumbnail GitHub](thumb.png)
 
-# E-commerce Orgs
+# Meus Projetos
 
-App que simula um e-commerce de produtos naturais para o curso de navegação e rotas com nuvigator através do Flutter e Dart.
+Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
+
+## <img align="center" height="30" width="40" src="whatsapp.png"> WhatsApp / Telegram
+[GitHub]()
+
+[Download]() 
+## <img align="center" height="30" width="40" src="instagram.png"> Instagram
+[GitHub]()
+
+[Download]()
+## <img align="center" height="30" width="40" src="ifood.png"> Ifood / Uber
+[GitHub]()
+
+[Download]()
+## <img align="center" height="30" width="40" src="discord.png"> Meets / Discord / Skype
+[GitHub]()
+
+[Download]()
+## <img align="center" height="30" width="40" src="gpt.png"> ChatGPT
+[GitHub]()
+
+[Download]()
+## <img align="center" height="30" width="40" src="mmo.png"> MMORPG
+[GitHub]()
+
+[Download]()
 
 ## 🔨 Funcionalidades do projeto
 
