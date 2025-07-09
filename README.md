@@ -5,7 +5,7 @@
 Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 
 ## <img align="center" height="30" width="40" src="whatsapp.png"> WhatsApp / Telegram
-[GitHub]()
+[GitHub](https://github.com/Kakomo/flutter-whatsapp-clone)
 
 [Download]() 
 
@@ -20,7 +20,7 @@ Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 📚 Outros ->
 
 ## <img align="center" height="30" width="40" src="instagram.png"> Instagram
-[GitHub]()
+[GitHub](https://github.com/Kakomo/SocialMedia-App)
 
 [Download]()
 
@@ -36,7 +36,7 @@ Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 
 
 ## <img align="center" height="30" width="40" src="ifood.png"> Ifood / Uber
-[GitHub]()
+[GitHub](https://github.com/Kakomo/Grocery-App)
 
 [Download]()
 
@@ -52,7 +52,7 @@ Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 
 
 ## <img align="center" height="30" width="40" src="discord.png"> Meets / Discord / Skype
-[GitHub]()
+[GitHub](https://github.com/Kakomo/discord_open)
 
 [Download]()
 
@@ -68,7 +68,7 @@ Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 
 
 ## <img align="center" height="30" width="40" src="gpt.png"> ChatGPT
-[GitHub]()
+[GitHub](https://github.com/Kakomo/flutter_chatgpt)
 
 [Download]()
 
@@ -84,7 +84,7 @@ Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 
 
 ## <img align="center" height="30" width="40" src="mmo.png"> MMORPG
-[GitHub]()
+[GitHub](https://github.com/Kakomo/Escola)
 
 [Download]()
 
