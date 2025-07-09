@@ -8,26 +8,97 @@ Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 [GitHub]()
 
 [Download]() 
+
+🔨 Arquitetura ->
+
+✔️ Gerenciamento de Estados -> 
+
+📁 Pacotes ->
+
+🛠️ CI/CD ->
+
+📚 Outros ->
+
 ## <img align="center" height="30" width="40" src="instagram.png"> Instagram
 [GitHub]()
 
 [Download]()
+
+🔨 Arquitetura ->
+
+✔️ Gerenciamento de Estados -> 
+
+📁 Pacotes ->
+
+🛠️ CI/CD ->
+
+📚 Outros ->
+
+
 ## <img align="center" height="30" width="40" src="ifood.png"> Ifood / Uber
 [GitHub]()
 
 [Download]()
+
+🔨 Arquitetura ->
+
+✔️ Gerenciamento de Estados -> 
+
+📁 Pacotes ->
+
+🛠️ CI/CD ->
+
+📚 Outros ->
+
+
 ## <img align="center" height="30" width="40" src="discord.png"> Meets / Discord / Skype
 [GitHub]()
 
 [Download]()
+
+🔨 Arquitetura ->
+
+✔️ Gerenciamento de Estados -> 
+
+📁 Pacotes ->
+
+🛠️ CI/CD ->
+
+📚 Outros ->
+
+
 ## <img align="center" height="30" width="40" src="gpt.png"> ChatGPT
 [GitHub]()
 
 [Download]()
+
+🔨 Arquitetura ->
+
+✔️ Gerenciamento de Estados -> 
+
+📁 Pacotes ->
+
+🛠️ CI/CD ->
+
+📚 Outros ->
+
+
 ## <img align="center" height="30" width="40" src="mmo.png"> MMORPG
 [GitHub]()
 
 [Download]()
+
+🔨 Arquitetura ->
+
+✔️ Gerenciamento de Estados -> 
+
+📁 Pacotes ->
+
+🛠️ CI/CD ->
+
+📚 Outros ->
+
+
 
 ## 🔨 Funcionalidades do projeto
 
