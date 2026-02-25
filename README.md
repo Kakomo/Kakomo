@@ -5,7 +5,7 @@
 Dê uma conferida nos projetos abertos! Você pode usar ou copiar a vontade c:
 
 ## <img align="center" height="30" width="40" src="whatsapp.png"> WhatsApp / Telegram
-[GitHub](https://github.com/Kakomo/flutter-whatsapp-clone)
+[GitHub](https://github.com/Kakomo/zapzap)
 
 [Download]() 
 
